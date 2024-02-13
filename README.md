@@ -49,6 +49,3 @@
 - Interface Segregation Principle (Принцип разделения интерфейса).
 - Dependency Inversion Principle (Принцип инверсии зависимостей).
 
-
-### Author:
-Copyright © 2023 Dmitry Koroteev. All rights reserved.
